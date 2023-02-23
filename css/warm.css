@@ -1,0 +1,11 @@
+@import url("palettes/gruvbox.css");
+:root {
+    --background: var(--black) ;
+    --foreground: var(--white) ;
+    --title: var(--orn-l) ;
+    --linkhover: var(--blu-m) ;
+    --linkfirst: var(--grn-l) ;
+    --imgborder: var(--white) ;
+    --inputcolor: var(--gra-l) ;
+    --inputborder: var(--red-m) ;
+}
